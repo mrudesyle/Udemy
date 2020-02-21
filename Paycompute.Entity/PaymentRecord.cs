@@ -22,7 +22,7 @@ namespace Paycompute.Entity
 
         [ForeignKey("TaxYear")]
         public int TaxYearId { get; set; }
-        public TaxYear TaxYear{ get; set; 
+        public TaxYear TaxYear { get; set; } 
         public string  TaxCode { get; set; }
 
         [Column(TypeName = "money")]
