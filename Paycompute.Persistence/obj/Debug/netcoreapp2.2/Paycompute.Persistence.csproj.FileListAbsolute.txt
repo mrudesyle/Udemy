@@ -11,3 +11,5 @@ D:\GitHub\Udemy\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity
 D:\GitHub\Udemy\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
 D:\GitHub\Udemy\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.dll
 D:\GitHub\Udemy\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.genruntimeconfig.cache

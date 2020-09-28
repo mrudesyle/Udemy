@@ -11,3 +11,4 @@ D:\GitHub\Udemy\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.
 D:\GitHub\Udemy\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
 D:\GitHub\Udemy\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
 D:\GitHub\Udemy\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb
+D:\GitHub\Udemy\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CoreCompileInputs.cache

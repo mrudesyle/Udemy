@@ -6,3 +6,4 @@ D:\GitHub\Udemy\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.Asse
 D:\GitHub\Udemy\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
 D:\GitHub\Udemy\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
 D:\GitHub\Udemy\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+D:\GitHub\Udemy\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
