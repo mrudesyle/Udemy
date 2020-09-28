@@ -1,0 +1,8 @@
+D:\GitHub\Udemy\Paycompute.Entity\bin\Release\netcoreapp2.2\Paycompute.Entity.deps.json
+D:\GitHub\Udemy\Paycompute.Entity\bin\Release\netcoreapp2.2\Paycompute.Entity.dll
+D:\GitHub\Udemy\Paycompute.Entity\bin\Release\netcoreapp2.2\Paycompute.Entity.pdb
+D:\GitHub\Udemy\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.csprojAssemblyReference.cache
+D:\GitHub\Udemy\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
+D:\GitHub\Udemy\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
+D:\GitHub\Udemy\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.dll
+D:\GitHub\Udemy\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.pdb

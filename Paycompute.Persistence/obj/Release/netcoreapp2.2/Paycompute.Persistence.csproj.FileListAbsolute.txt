@@ -1,0 +1,13 @@
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.deps.json
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.json
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.dev.json
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.dll
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.pdb
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Entity.dll
+D:\GitHub\Udemy\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Entity.pdb
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csprojAssemblyReference.cache
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.AssemblyInfoInputs.cache
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.AssemblyInfo.cs
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.dll
+D:\GitHub\Udemy\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.pdb
